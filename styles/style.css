@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  background-color: blue;
+}
